@@ -18,7 +18,7 @@ body{
 	background: var(--bg-color);
 	color: var(--text-color);
 	height: 100vh;
-	background: url(../img/front1.jpeg);
+	background: url(front1.jpeg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
